@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [jehyunpark's dev wiki](README.md)
+
+## Data Structure and Algorithms
+
+* [basic](data-structure-and-algorithms/basic.md)
 
