@@ -1,4 +1,4 @@
-# jehyunpark's dev wiki
+# JehyunPark's Dev Wiki
 
 {% page-ref page="./" %}
 

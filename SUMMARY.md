@@ -1,6 +1,6 @@
 # Table of contents
 
-* [jehyunpark's dev wiki](README.md)
+* [JehyunPark's Dev Wiki](README.md)
 
 ## Data Structure and Algorithms
 
