@@ -10,9 +10,9 @@
 
 * [Untitled](java/untitled.md)
 
-## springboot
+## spring/springboot
 
-* [Untitled](springboot/untitled.md)
+* [Untitled](spring-springboot/untitled.md)
 
 ## datastore
 
