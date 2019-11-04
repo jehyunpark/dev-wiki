@@ -13,7 +13,7 @@
 ## spring/springboot
 * [Untitled](spring-springboot/untitled.md)
 ### cache
-* spring-cache.md
+* Spring Cache(spring-springboot/cache/spring-cache.md)
 
 
 ## datastore
