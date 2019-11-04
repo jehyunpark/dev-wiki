@@ -1,3 +1,5 @@
+# Spring 캐시
+
 - NoOpCacheManager
   - https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/cache/support/NoOpCacheManager.html
   - 캐싱을 비활성화하는 데 적합한 기본 작업이 없는 CacheManager 구현
