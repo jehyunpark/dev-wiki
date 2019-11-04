@@ -12,8 +12,7 @@
 
 ## spring/springboot
 * [Untitled](spring-springboot/untitled.md)
-### cache
-* [Spring Cache](spring-springboot/cache/spring-cache.md)
+  * [Spring Cache](spring-springboot/cache/spring-cache.md)
 
 
 ## datastore
