@@ -2,40 +2,40 @@
 
 * [JehyunPark's Dev Wiki](README.md)
 
-## data structure and algorithms
+## DATA STRUCTURE AND ALGORITHMS
 
 * [basic](data-structure-and-algorithms/basic.md)
 
-## java
+## JAVA
 
 * [Untitled](java/untitled.md)
 
-## spring/springboot
+## SPRING/SPRINGBOOT
 * [Untitled](spring-springboot/untitled.md)
   * [Spring Cache](spring-springboot/cache/spring-cache.md)
 
 
-## datastore
+## DATASTORE
 
 * [Untitled](datastore/untitled.md)
 
-## cache
+## CACHE
 
 * [Untitled](cache/untitled.md)
 
-## architecture
+## ARCHITECTURE
 
 * [Untitled](architecture/untitled.md)
 
-## ci/cd
+## CI/CD
 
 * [Untitled](ci-cd/untitled.md)
 
-## auth
+## AUTH
 
 * [Untitled](auth/untitled.md)
 
-## message
+## MESSAGE
 
 * [Untitled](message/untitled.md)
 
